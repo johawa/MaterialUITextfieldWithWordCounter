@@ -1,2 +1,0 @@
-# MaterialUITextfieldWithWordCounter
-Created with CodeSandbox
